@@ -4,7 +4,7 @@ cualquier maquina con un os linux
 
 ## Como instalar?
 ```console  
-git clone [https://github.com/HaroldMurcia/ejemplo.git](https://github.com/HaroldMurcia/ejemplo.git)  
+git clone https://github.com/TWBauer/ejemplo.git
 ```
 
 ## Como correr?
