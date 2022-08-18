@@ -59,11 +59,16 @@ Para finalizar los procesos oprimimos control c![enter image description here](h
 
 Luego de clonar nuestro repo procedemos a ubicar nuestro archivo para luego seleccionar la opcion de "open in terminal"
 
-luego de esto nos ubicamos nuevamente dentro de la carpeta de soruces
+luego de esto nos ubicamos nuevamente dentro de la carpeta de sources
 ```console
 cd src/
 ```
-
+luego de esto ejecutamos la siguiente instruccion:
+```console
+./my_launch.sh
+```
+con esto ya se deberia lanzar el programa que consta de el talker.py y el listener.py
+![enter image description here](https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif)
 
 ## Autor
 
