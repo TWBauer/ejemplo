@@ -71,6 +71,7 @@ con esto ya se deberia lanzar el programa que consta de el talker.py y el listen
 ![enter image description here](https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif)
 
 ## Autor
+![5eeea355389655 59822ff824b72](https://user-images.githubusercontent.com/76453036/203870296-e448c52d-0cc6-431f-bee9-1bcfa27e8aef.gif)
 
   
 
